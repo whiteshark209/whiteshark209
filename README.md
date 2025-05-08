@@ -16,15 +16,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" height="200" width="400" />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" height="285" width="500" />
 
 ### 👨‍💻 About Me
 
 - 🧠 Passionate about **designing scalable, high-performance systems** and **refining full-stack engineering workflows**
-- ⚙️ Experienced with **React, Redux, Next.js, Node.js, PHP, Python, Django**, and low-level systems in **Rust** and **C++**
-- ☁️ Skilled in deploying cloud-native solutions on **AWS, Azure, and GCP**
-- 🎓 Holds a **Bachelor’s in Computer Science** from **The University of Belgrade**
-- 🌍 Based in **Serbia**, collaborating remotely with global clients via **UpWork**
+- ⚙️ Experienced with **React, Next.js, Node.js, PHP, Python, Django**, and low-level systems in **Rust** and **C++**
+- ☁️ Skilled in cloud deployment on **AWS, Azure, and GCP**
+- 🎓 **Bachelor’s in Computer Science** & **The University of Belgrade**
+- 🌍 Based in **Serbia**, collaborating remotely with clients via **UpWork**
 - 🧩 Constantly iterating on **clean architecture**, **state management best practices**, and **UI-first development philosophies**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

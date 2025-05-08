@@ -16,7 +16,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" height="250" width="500" />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right" height="250" width="450" />
 
 ### 👨‍💻 About Me
 

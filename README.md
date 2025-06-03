@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/ff03ca63-3479-4f29-a384-f57a34b6eead)<div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=85&color=gradient&reversal=true />
 </div>
 <div align="center">
@@ -23,7 +23,7 @@
 - 🧠 Passionate about **designing scalable, high-performance systems** and **refining full-stack engineering workflows**
 - ⚙️ Experienced with **React, Next.js, Node.js, PHP, Python, Django**, and low-level systems in **Rust** and **C++**
 - ☁️ Skilled in cloud deployment on **AWS, Azure, and GCP**
-- 🎓 **Bachelor’s in Computer Science** & **The University of Belgrade**
+- 🎓 **Bachelor’s in Computer Science** & **University of Novi Sad**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 

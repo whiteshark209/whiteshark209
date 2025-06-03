@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff03ca63-3479-4f29-a384-f57a34b6eead)<div align="center">
+<div>
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=85&color=gradient&reversal=true />
 </div>
 <div align="center">
